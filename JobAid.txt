@@ -1,0 +1,76 @@
+//////////////////////
+SDK stuff:
+
+To get tick count
+PrintSysTicks();
+
+gt_read_ms()
+
+UpdateBatteryLevel()
+
+us_ticker_read();
+
+DelayQuiet();
+
+//////////////////////
+C:\Users\Aladdin\Downloads\BLE_Wristband_uvision_nrf51822>cppcheck BLE_Wristband  2>output.txt
+
+tions. Use --force to check all configurations. For more details, use --enable=information.
+
+cppcheck --enable=all --includes-file=includepath.txt --force BLE_Wristband > lintOut.txt 2>&1
+
+2>&1 means “redirect file descriptor 2 (standard error) to whatever file descriptor 1 (standard output) is connected to”. 
+
+cppcheck --check-config --includes-file=includepath.txt BLE_Wristband
+
+ --includes-file=includepath.txt
+
+--enable=all
+
+C:\Users\Aladdin\Downloads\BLE_Wristband_uvision_nrf51822>cppcheck --enable=all BLE_Wristband > output.txt 2>&1
+
+//////////////////////
+SDK location
+C:\GitHub\Hardware\Support-Files\nrf51822\nRF51_SDK_7.1.0_372d17a.zip
+
+//////////////////////
+To program using nrf Studio:
+SoftDevice image is C:/Users/Aladdin/Downloads/s110_nrf51822_7.1.0_softdevice.hex
+The application image C:/Users/Aladdin/Downloads/BLE_Barbell_NRF51822_OTA.hex
+The bootloader image C:/Users/Aladdin/Downloads/ble_default_bootloader_app_nrf51822fota.hex includes SoftDevice code
+
+The platform nRF51822 FOTA, does not generate the Softdevice, only the application.
+The platform nRF51822 no FOTA, generates the Softdevice and the application in one binary.
+
+//////////////////////
+Location of application for the Barbell:
+C:\GitHub\Hardware\Firmware\Barbell\BBv7\2015may11\BLE_Barbell_NRF51822_OTA.hex
+
+Location of bootloader for barbell:
+C:\GitHub\Hardware\Tools\Bootloaders_NRF\ble_default_bootloader_app_nrf51822fota.hex
+
+//////////////////////
+MBED compile includes SD, before program erase device.
+
+//////////////////////
+TX/RX Pin assigments on the Pin:
+From the schmatic TP5 connected to P17 and TP6 connected to P18 same as the pins in hardwarepinout.h
+#define TP5_PIN p17
+#define TP6_PIN p18
+
+The main.cpp has defines which one is tx and rx, the first is tx, followed by rx :
+//Serial pc(TP5_PIN, TP6_PIN);
+Serial pc(TP6_PIN, TP5_PIN);
+
+//////////////////////
+Schematic for the pin:
+C:\GitHub\Hardware\PCB\pin\V5
+
+GitHub user name aladdin-sunalla
+
+echo # Test3 >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/aladdin-sunalla/Test3.git
+git push -u origin master

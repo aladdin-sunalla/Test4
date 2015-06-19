@@ -1,0 +1,188 @@
+Pin original code:
+
+It works!!!!BLE Version 7.90
+My address: CE7EF4940C95
+Init battery
+setup battery service
+updateBatteryLevel blc 22
+updateBatteryLevel percent OK 22
+setup device info service
+setup pin info service
+PinInfoService setupService
+PinInfoService attach this, &PinInfoService::onDataWritten
+PinInfoService setupService done
+setup DFU service
+DFU attach this, &DFUService::onDataWritten
+Setup
+setupAccelerometer
+setup blinkers
+clear cached reps
+setup sonar
+UpdateRepAdvertisements
+TIMEOUT SONAR
+pinActivityState 0 lastSleepTime 4914
+Going to sleep!
+WakeUp!
+Push RepInfoDwell
+updateBatteryLevel blc 79
+updateBatteryLevel percent OK 79
+Battery percent 79 3935
+updateBatterymV 3935
+updateBatterymV OK 3935
+Battery 3.935484 OK - USB Connected - Not Charging
+TIMEOUT SONAR
+Cached Reps 1
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+pinActivityState 0 lastSleepTime 5970
+Going to sleep!
+WakeUp!
+Push RepInfoDwell
+updateBatteryLevel blc 74
+updateBatteryLevel percent OK 74
+Battery percent 74 3895
+updateBatterymV 3895
+updateBatterymV OK 3895
+PIN INSERTED
+Wait for sonar
+TIMEOUT SONAR
+Cached Reps 1
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+pinActivityState 0 lastSleepTime 6085
+Going to sleep!
+updateBatteryLevel blc 71
+updateBatteryLevel percent OK 71
+Battery percent 71 3871
+updateBatterymV 3871
+updateBatterymV OK 3871
+updateBatteryLevel blc 69
+updateBatteryLevel percent OK 69
+Battery percent 69 3857
+updateBatterymV 3857
+updateBatterymV OK 3857
+Ä0 ¸0 3.857314 OK - USB Connected - Charging
+updateBatteryLevel blc 46
+updateBatteryLevel percent OK 46
+Battery percent 46 3672
+updateBatterymV 3672
+updateBatterymV OK 3672
+updateBatteryLevel blc 32
+updateBatteryLevel percent OK 32
+Battery percent 32 3562
+updateBatterymV 3562
+updateBatterymV OK 3562
+updateBatteryLevel blc 46
+updateBatteryLevel percent OK 46
+Battery percent 46 3671
+updateBatterymV 3671
+updateBatterymV OK 3671
+updateBatteryLevel blc 54
+updateBatteryLevel percent OK 54
+Battery percent 54 3737
+updateBatterymV 3737
+updateBatterymV OK 3737
+updateBatteryLevel blc 59
+updateBatteryLevel percent OK 59
+Battery percent 59 3776
+updateBatterymV 3776
+updateBatterymV OK 3776
+updateBatteryLevel blc 62
+updateBatteryLevel percent OK 62
+Battery percent 62 3800
+updateBatterymV 3800
+updateBatterymV OK 3800
+updateBatteryLevel blc 64
+updateBatteryLevel percent OK 64
+Battery percent 64 3814
+updateBatterymV 3814
+updateBatterymV OK 3814
+updateBatteryLevel blc 65
+updateBatteryLevel percent OK 65
+Battery percent 65 3823
+updateBatterymV 3823
+updateBatterymV OK 3823
+updateBatteryLevel blc 66
+updateBatteryLevel percent OK 66
+Battery percent 66 3828
+updateBatterymV 3828
+updateBatterymV OK 3828
+updateBatterymV 3831
+updateBatterymV OK 3831
+updateBatterymV 3833
+updateBatterymV OK 3833
+updateBatterymV 3834
+updateBatterymV OK 3834
+updateBatterymV 3835
+updateBatterymV OK 3835
+updateBatteryLevel blc 43
+updateBatteryLevel percent OK 43
+Battery percent 43 3645
+updateBatterymV 3645
+updateBatterymV OK 3645
+Ä0 ¸0 3.645748 OK - USB Disconnected - Not Charging
+updateBatteryLevel blc 30
+updateBatteryLevel percent OK 30
+Battery percent 30 3545
+updateBatterymV 3545
+updateBatterymV OK 3545
+updateBatteryLevel blc 23
+updateBatteryLevel percent OK 23
+Battery percent 23 3485
+updateBatterymV 3485
+updateBatterymV OK 3485
+Ä0 ¸0 3.485842 Warn - USB Disconnected - Not Charging
+updateBatteryLevel blc 18
+updateBatteryLevel percent OK 18
+Battery percent 18 3449
+updateBatterymV 3449
+updateBatterymV OK 3449
+updateBatteryLevel blc 16
+updateBatteryLevel percent OK 16
+Battery percent 16 3428
+updateBatterymV 3428
+updateBatterymV OK 3428
+updateBatteryLevel blc 14
+updateBatteryLevel percent OK 14
+Battery percent 14 3415
+updateBatterymV 3415
+updateBatterymV OK 3415
+updateBatteryLevel blc 13
+updateBatteryLevel percent OK 13
+Battery percent 13 3407
+updateBatterymV 3407
+updateBatterymV OK 3407
+updateBatteryLevel blc 12
+updateBatteryLevel percent OK 12
+Battery percent 12 3402
+updateBatterymV 3402
+updateBatterymV OK 3402
+updateBatterymV 3400
+updateBatterymV OK 3400
+updateBatterymV 3398
+updateBatterymV OK 3398
+updateBatterymV 3397
+updateBatterymV OK 3397
+updateBatterymV 3396
+updateBatterymV OK 3396
+updateBatteryLevel blc 11
+updateBatteryLevel percent OK 11
+Battery percent 11 3395
+updateBatterymV 3395
+updateBatterymV OK 3395

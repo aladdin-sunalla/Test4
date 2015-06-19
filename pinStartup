@@ -1,0 +1,300 @@
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿþRESETREAS = 01
+RESETREAS & RESET_FROM_PIN
+manufacturersName = Gymtrack
+modelNumber       = Pin
+serialNumber      = 0000
+hardwareRevision  = 05
+firmwareRevision  = 1.001
+softwareRevision  = 20150429
+companyUUID  = 0x004B
+ReadCalVersion = 1
+Cal Data
+calVersion = 1
+sonarCalOffset = 0.000000
+weightUnit = 0
+calX = 0.000000
+calY = 0.000000
+calZ = 0.000000
+pinRemovalTimeout = 150
+iSpare2 = 0
+rangeOfMotion = 100.000000
+pinRemovalAccelThreshold = 1.500000
+txpower = 15
+advertiseX = 1
+sonarThreshold = 106
+sonarPulses = 8
+stableReadmm = 8
+was_calibrated = 170
+END Cal Data
+PrintPlateInfos
+Plate 0 Mass 10.0 Posmm 496 Data: 64 00 F0 01 
+Plate 1 Mass 15.0 Posmm 476 Data: 96 00 DC 01 
+Plate 2 Mass 20.0 Posmm 451 Data: C8 00 C3 01 
+Plate 3 Mass 25.0 Posmm 426 Data: FA 00 AA 01 
+Plate 4 Mass 30.0 Posmm 398 Data: 2C 01 8E 01 
+Plate 5 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 6 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 7 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 8 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 9 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 10 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 11 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 12 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 13 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 14 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 15 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 16 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 17 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 18 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 19 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 20 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 21 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 22 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 23 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 24 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 25 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 26 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 27 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 28 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 29 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 30 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 31 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 32 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 33 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 34 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 35 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 36 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 37 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 38 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 39 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 40 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 41 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 42 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 43 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 44 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 45 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 46 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 47 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 48 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+Plate 49 Mass -0.1 Posmm -1 Data: FF FF FF FF 
+It works!!!!Testing printing
+BLE Version 7.90
+BLE Version 7.90
+My address: CE7EF4940C95
+Init battery
+setup battery service
+updateBatteryLevel blc 22
+updateBatteryLevel percent OK 22
+setup device info service
+setup pin info service
+PinInfoService setupService
+PinInfoService attach this, &PinInfoService::onDataWritten
+PinInfoService setupService done
+setup DFU service
+DFU attach this, &DFUService::onDataWritten
+Setup
+setupAccelerometer
+setup blinkers
+clear cached reps
+setup sonar
+UpdateRepAdvertisements
+SetPlateInfo = 255
+Plate 255 Mass -29.3 Posmm 2050 Data: DB FE 02 08 
+pinActivityState 0 lastSleepTime 4946
+Going to sleep!
+WakeUp!
+Push RepInfoDwell
+SysTicks Secs = 0.0
+Time ms 4959  Battery level 3.824047 3.824047
+updateBatteryLevel blc 58
+updateBatteryLevel percent OK 58
+Battery percent 58 3824
+updateBatterymV 3824
+updateBatterymV OK 3824
+updateBatteryState 34
+updateBatteryState OK 34
+USB charging has started
+IndicateUSBChargeLED(0)
+USB charging completed
+IndicateUSBChargeLED()
+pinActivityState 0 lastSleepTime 5945
+Going to sleep!
+WakeUp!
+Push RepInfoDwell
+SysTicks Secs = 1.0
+Time ms 5971  Battery level 3.841642 3.831085
+updateBatteryLevel blc 59
+updateBatteryLevel percent OK 59
+Battery percent 59 3831
+updateBatterymV 3831
+updateBatterymV OK 3831
+TIMEOUT SONAR
+Cached Reps 2
+PIN INSERTED
+Wait for sonar
+TIMEOUT SONAR
+Cached Reps 1
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+SysTicks Secs = 3.1
+Time ms 7995  Battery level 3.824047 3.828270
+updateBatteryLevel blc 58
+updateBatteryLevel percent OK 58
+Battery percent 58 3828
+updateBatterymV 3828
+updateBatterymV OK 3828
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+TIMEOUT SONAR
+SysTicks Secs = 5.1
+Time ms 10020  Battery level 3.853372 3.838311
+updateBatteryLevel blc 59
+updateBatteryLevel percent OK 59
+Battery percent 59 3838
+updateBatterymV 3838
+updateBatterymV OK 3838
+TIMEOUT SONAR
+Send 0 rep
+Push RepInfoDwell
+Cached Reps 1
+pinActivityState == PIN_INACTIVE
+pinActivityState 1 lastSleepTime -1
+Going to sleep!
+SysTicks Secs = 7.3
+Time ms 12172  Battery level 3.835777 3.837297
+updateBatterymV 3837
+updateBatterymV OK 3837
+SysTicks Secs = 9.3
+Time ms 14172  Battery level 3.835777 3.836689
+updateBatterymV 3836
+updateBatterymV OK 3836
+SysTicks Secs = 11.3
+Time ms 16172  Battery level 3.835777 3.836325
+updateBatteryState 50
+updateBatteryState OK 50
+SysTicks Secs = 13.3
+Time ms 18172  Battery level 3.173020 3.571003
+updateBatteryLevel blc 30
+updateBatteryLevel percent OK 30
+Battery percent 30 3571
+updateBatterymV 3571
+updateBatterymV OK 3571
+SysTicks Secs = 15.3ØTime ms 20175  Battery level 3.835777 3.676913
+updateBatteryLevel blc 41
+updateBatteryLevel percent OK 41
+Battery percent 41 3676
+updateBatterymV 3676
+updateBatterymV OK 3676
+SysTicks Secs = 17.3
+Time ms 22172  Battery level 3.835777 3.740458
+updateBatteryLevel blc 48
+updateBatteryLevel percent OK 48
+Battery percent 48 3740
+updateBatterymV 3740
+updateBatterymV OK 3740
+SysTicks Secs = 19.3
+Time ms 24172  Battery level 3.835777 3.778586
+updateBatteryLevel blc 53
+updateBatteryLevel percent OK 53
+Battery percent 53 3778
+updateBatterymV 3778
+updateBatterymV OK 3778
+SysTicks Secs = 21.3
+Time ms 26172  Battery level 3.835777 3.801462
+updateBatteryLevel blc 55
+updateBatteryLevel percent OK 55
+Battery percent 55 3801
+updateBatterymV 3801
+updateBatterymV OK 3801
+SysTicks Secs = 23.3
+Time ms 28172  Battery level 3.835777 3.815188
+updateBatteryLevel blc 57
+updateBatteryLevel percent OK 57
+Battery percent 57 3815
+updateBatterymV 3815
+updateBatterymV OK 3815
+SysTicks Secs = 25.3
+Time ms 30174  Battery level 3.835777 3.823424
+updateBatteryLevel blc 58
+updateBatteryLevel percent OK 58
+Battery percent 58 3823
+updateBatterymV 3823
+updateBatterymV OK 3823
+SysTicks Secs = 27.4
+Time ms 32272  Battery level 3.835777 3.828365
+updateBatterymV 3828
+updateBatterymV OK 3828
+SysTicks Secs = 29.4
+Time ms 34272  Battery level 3.835777 3.831330
+updateBatteryLevel blc 59
+updateBatteryLevel percent OK 59
+Battery percent 59 3831
+updateBatterymV 3831
+updateBatterymV OK 3831
+SysTicks Secs = 31.4
+Time ms 36272  Battery level 3.835777 3.833109
+updateBatterymV 3833
+updateBatterymV OK 3833
+SysTicks Secs = 33.4
+Time ms 38272  Battery level 3.835777 3.834176
+updateBatterymV 3834
+updateBatterymV OK 3834
+SysTicks Secs = 35.4
+Time ms 40272  Battery level 3.835777 3.834817
+SysTicks Secs = 37.4
+Time ms 42272  Battery level 3.835777 3.835201
+updateBatterymV 3835
+updateBatterymV OK 3835
+SysTicks Secs = 39.4
+Time ms 44272  Battery level 3.835777 3.835432
+SysTicks Secs = 41.4
+Time ms 46272  Battery level 3.835777 3.835570
+SysTicks Secs = 43.4
+Time ms 48273  B9È1 3.835777 3.835653
+SysTicks Secs = 45.4
+Time ms 50272  Battery level 3.835777 3.835703
+SysTicks Secs = 47.4
+Time ms 52272  Battery level 3.835777 3.835732
+SysTicks Secs = 49.4
+Time ms 54272  Battery level 3.835777 3.835750
+SysTicks Secs = 51.4
+Time ms 56272  Battery level 3.835777 3.835761
+SysTicks Secs = 53.4
+Time ms 58273  Battery level 3.835777 3.835768
+SysTicks Secs = 55.4
+Time ms 60272  Battery level 3.835777 3.835771
+SysTicks Secs = 57.4
+Time ms 62272  Battery level 3.835777 3.835774
+SysTicks Secs = 59.4
+Time ms 64272  Battery level 3.835777 3.835775
+SysTicks Secs = 61.4
+Time ms 66272  Battery level 3.835777 3.835776
+SysTicks Secs = 63.4
+Time ms 68272  Battery level 3.835777 3.835777
+SysTicks Secs = 65.4
+Time ms 70272  Battery level 3.835777 3.835777

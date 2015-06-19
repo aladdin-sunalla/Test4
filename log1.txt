@@ -1,0 +1,1530 @@
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4175
+Time ms 83644  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4177
+Time ms 85644  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4179
+Time ms 87644  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4181
+Time ms 89644  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4183
+Time ms 91647  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4185
+Time ms 93647  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4187
+Time ms 95647  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4189
+Time ms 97649  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4191
+Time ms 99649  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4193
+Time ms 101650  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4195
+Time ms 103649  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4197
+Time ms 105649  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4199
+Time ms 107649  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4201
+Time ms 109649  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4203
+Time ms 111650  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4205
+Time ms 113653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4207
+Time ms 115653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4209
+Time ms 117653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4211
+Time ms 119654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4213
+Time ms 121653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4215
+Time ms 123653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4217
+Time ms 125653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4219
+Time ms 127653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4221
+Time ms 129653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4223
+Time ms 131653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4225
+Time ms 133653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4227
+Time ms 135653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4229
+Time ms 137654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4231
+Time ms 139653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4233
+Time ms 141653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4235
+Time ms 143653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4237
+Time ms 145653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4239
+Time ms 147653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4241
+Time ms 149653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4243
+Time ms 151654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4245
+Time ms 153653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4247
+Time ms 155654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4249
+Time ms 157653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4251
+Time ms 159653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4253
+Time ms 161653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4255
+Time ms 163653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4257
+Time ms 165653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4259
+Time ms 167653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4261
+Time ms 169653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4263
+Time ms 171653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4265
+Time ms 173654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4267
+Time ms 175653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4269
+Time ms 177653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4271
+Time ms 179653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4273
+Time ms 181653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4275
+Time ms 183653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4277
+Time ms 185653  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4279
+Time ms 187655  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4281
+Time ms 189654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4283
+Time ms 191655  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4285
+Time ms 193654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4287
+Time ms 195654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4289
+Time ms 197654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4291
+Time ms 199654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4293
+Time ms 201654  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4295
+Time ms 203656  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4297
+Time ms 205656  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4299
+Time ms 207656  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4301
+Time ms 209659  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4303
+Time ms 211658  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4305
+Time ms 213659  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4307
+Time ms 215658  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4309
+Time ms 217658  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4311
+Time ms 219658  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4313
+Time ms 221658  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4315
+Time ms 223658  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4317
+Time ms 225658  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4319
+Time ms 227661  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4321
+Time ms 229661  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4323
+Time ms 231662  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4325
+Time ms 233661  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4327
+Time ms 235661  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4329
+Time ms 237666  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4331
+Time ms 239666  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4333
+Time ms 241666  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4335
+Time ms 243666  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4337
+Time ms 245666  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4339
+Time ms 247672  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4341
+Time ms 249672  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4343
+Time ms 251672  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4345
+Time ms 253673  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4347
+Time ms 255673  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4349
+Time ms 257678  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4351
+Time ms 259677  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4353
+Time ms 261684  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4355
+Time ms 263684  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4357
+Time ms 265685  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4359
+Time ms 267684  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4361
+Time ms 269685  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4363
+Time ms 271684  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4365
+Time ms 273684  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4367
+Time ms 275684  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4369
+Time ms 277684  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4371
+Time ms 279684  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4373
+Time ms 281684  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4375
+Time ms 283687  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4377
+Time ms 285687  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4379
+Time ms 287688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4381
+Time ms 289687  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4383
+Time ms 291688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4385
+Time ms 293688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4387
+Time ms 295688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4389
+Time ms 297688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4391
+Time ms 299688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4393
+Time ms 301688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4395
+Time ms 303688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4397
+Time ms 305689  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4399
+Time ms 307688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4401
+Time ms 309688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4403
+Time ms 311688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4405
+Time ms 313688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4407
+Time ms 315688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4409
+Time ms 317688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4411
+Time ms 319688  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4413
+Time ms 321692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4415
+Time ms 323692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4417
+Time ms 325692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4419
+Time ms 327693  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4421
+Time ms 329692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4423
+Time ms 331692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4425
+Time ms 333692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4427
+Time ms 335692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4429
+Time ms 337692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4431
+Time ms 339692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4433
+Time ms 341693  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4435
+Time ms 343692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4437
+Time ms 345693  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4439
+Time ms 347692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4441
+Time ms 349692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4443
+Time ms 351692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4445
+Time ms 353692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4447
+Time ms 355692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4449
+Time ms 357692  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4451
+Time ms 359693  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4453
+Time ms 361696  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4455
+Time ms 363702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4457
+Time ms 365702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4459
+Time ms 367703  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4461
+Time ms 369702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4463
+Time ms 371703  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4465
+Time ms 373702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4467
+Time ms 375702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4469
+Time ms 377702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4471
+Time ms 379702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4473
+Time ms 381702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4475
+Time ms 383702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4477
+Time ms 385703  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4479
+Time ms 387702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4481
+Time ms 389703  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4483
+Time ms 391702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4485
+Time ms 393702  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4487
+Time ms 395707  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4489
+Time ms 397707  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4491
+Time ms 399707  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4493
+Time ms 401707  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4495
+Time ms 403708  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4497
+Time ms 405708  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4499
+Time ms 407714  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4501
+Time ms 409714  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4503
+Time ms 411719  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4505
+Time ms 413719  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4507
+Time ms 415720  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4509
+Time ms 417719  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4511
+Time ms 419720  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4513
+Time ms 421719  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4515
+Time ms 423720  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4517
+Time ms 425720  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4519
+Time ms 427720  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4521
+Time ms 429720  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4523
+Time ms 431720  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4525
+Time ms 433722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4527
+Time ms 435722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4529
+Time ms 437723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4531
+Time ms 439722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4533
+Time ms 441722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4535
+Time ms 443722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4537
+Time ms 445722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4539
+Time ms 447722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4541
+Time ms 449722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4543
+Time ms 451722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4545
+Time ms 453722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4547
+Time ms 455723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4549
+Time ms 457722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4551
+Time ms 459722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4553
+Time ms 461722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4555
+Time ms 463722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4557
+Time ms 465722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4559
+Time ms 467722  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4561
+Time ms 469723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4563
+Time ms 471723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4565
+Time ms 473724  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4567
+Time ms 475723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4569
+Time ms 477723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4571
+Time ms 479723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4573
+Time ms 481723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4575
+Time ms 483723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4577
+Time ms 485723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4579
+Time ms 487723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4581
+Time ms 489723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4583
+Time ms 491724  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4585
+Time ms 493723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4587
+Time ms 495723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4589
+Time ms 497723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4591
+Time ms 499723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4593
+Time ms 501723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4595
+Time ms 503723  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4597
+Time ms 505725  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4599
+Time ms 507725  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4601
+Time ms 509726  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4603
+Time ms 511725  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4605
+Time ms 1729  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4607
+Time ms 3728  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4609
+Time ms 5728  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4611
+Time ms 7728  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4613
+Time ms 9728  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4615
+Time ms 11728  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4617
+Time ms 13728  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4619
+Time ms 15729  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4621
+Time ms 17729  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4623
+Time ms 19731  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4625
+Time ms 21730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4627
+Time ms 23730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4629
+Time ms 25730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4631
+Time ms 27730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4633
+Time ms 29730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4635
+Time ms 31730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4637
+Time ms 33730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4639
+Time ms 35730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4641
+Time ms 37731  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4643
+Time ms 39730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4645
+Time ms 41730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4647
+Time ms 43730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4649
+Time ms 45730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4651
+Time ms 47730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4653
+Time ms 49730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4655
+Time ms 51730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4657
+Time ms 53730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4659
+Time ms 55731  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4661
+Time ms 57730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4663
+Time ms 59730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4665
+Time ms 61730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4667
+Time ms 63730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4669
+Time ms 65731  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4671
+Time ms 67730  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4673
+Time ms 69734  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4675
+Time ms 71734  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4677
+Time ms 73738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4679
+Time ms 75738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4681
+Time ms 77739  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4683
+Time ms 79738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4685
+Time ms 81738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4687
+Time ms 83738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4689
+Time ms 85738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4691
+Time ms 87738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4693
+Time ms 89738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4695
+Time ms 91738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4697
+Time ms 93738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4699
+Time ms 95739  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4701
+Time ms 97738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4703
+Time ms 99738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4705
+Time ms 101738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4707
+Time ms 103738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4709
+Time ms 105738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4711
+Time ms 107738  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4713
+Time ms 109740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4715
+Time ms 111740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4717
+Time ms 113741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4719
+Time ms 115740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4721
+Time ms 117740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4723
+Time ms 119740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4725
+Time ms 121740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4727
+Time ms 123740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4729
+Time ms 125740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4731
+Time ms 127740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4733
+Time ms 129740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4735
+Time ms 131741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4737
+Time ms 133740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4739
+Time ms 135740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4741
+Time ms 137740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4743
+Time ms 139740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4745
+Time ms 141740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4747
+Time ms 143740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4749
+Time ms 145740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4751
+Time ms 147740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4753
+Time ms 149741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4755
+Time ms 151740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4757
+Time ms 153740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4759
+Time ms 155740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4761
+Time ms 157740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4763
+Time ms 159740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4765
+Time ms 161740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4767
+Time ms 163740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4769
+Time ms 165740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4771
+Time ms 167741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4773
+Time ms 169740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4775
+Time ms 171741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4777
+Time ms 173740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4779
+Time ms 175740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4781
+Time ms 177740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4783
+Time ms 179740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4785
+Time ms 181740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4787
+Time ms 183740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4789
+Time ms 185741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4791
+Time ms 187740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4793
+Time ms 189740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4795
+Time ms 191740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4797
+Time ms 193740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4799
+Time ms 195740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4801
+Time ms 197740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4803
+Time ms 199740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4805
+Time ms 201740  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4807
+Time ms 203741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4809
+Time ms 205741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4811
+Time ms 207741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4813
+Time ms 209741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4815
+Time ms 211741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4817
+Time ms 213741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4819
+Time ms 215741  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4821
+Time ms 217745  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4823
+Time ms 219746  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4826
+Time ms 221747  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4828
+Time ms 223747  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4830
+Time ms 225748  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4832
+Time ms 227747  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4834
+Time ms 229754  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4836
+Time ms 231753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4838
+Time ms 233753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4840
+Time ms 235753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4842
+Time ms 237753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4844
+Time ms 239753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4846
+Time ms 241753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4848
+Time ms 243753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4850
+Time ms 245753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4852
+Time ms 247754  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4854
+Time ms 249753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4856
+Time ms 251753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4858
+Time ms 253753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4860
+Time ms 255753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4862
+Time ms 257753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4864
+Time ms 259753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4866
+Time ms 261753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4868
+Time ms 263753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4870
+Time ms 265754  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4872
+Time ms 267753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4874
+Time ms 269753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4876
+Time ms 271753  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4878
+Time ms 273755  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4880
+Time ms 275755  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4882
+Time ms 277755  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4884
+Time ms 279756  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4886
+Time ms 281756  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4888
+Time ms 283761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4890
+Time ms 285761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4892
+Time ms 287762  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4894
+Time ms 289761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4896
+Time ms 291762  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4898
+Time ms 293761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4900
+Time ms 295761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4902
+Time ms 297761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4904
+Time ms 299761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4906
+Time ms 301761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4908
+Time ms 303761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4910
+Time ms 305762  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4912
+Time ms 307761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 4914
+Time ms 309761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4916
+Time ms 311761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4918
+Time ms 313761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4920
+Time ms 315761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4922
+Time ms 317761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4924
+Time ms 319761  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4926
+Time ms 321765  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4928
+Time ms 323768  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4930
+Time ms 325768  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4932
+Time ms 327769  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4934
+Time ms 329768  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4936
+Time ms 331769  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4938
+Time ms 333768  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4940
+Time ms 335768  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4942
+Time ms 337768  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4944
+Time ms 339768  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4946
+Time ms 341768  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4948
+Time ms 343768  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4950
+Time ms 345773  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4952
+Time ms 347773  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4954
+Time ms 349774  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4956
+Time ms 351773  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4958
+Time ms 353774  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4960
+Time ms 355774  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4962
+Time ms 357774  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4964
+Time ms 359774  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4966
+Time ms 361774  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4968
+Time ms 363774  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4970
+Time ms 365774  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4972
+Time ms 367776  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4974
+Time ms 369776  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4976
+Time ms 371777  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4978
+Time ms 373776  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4980
+Time ms 375776  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4982
+Time ms 377776  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4984
+Time ms 379776  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 4986
+Time ms 381777  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4988
+Time ms 383782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4990
+Time ms 385782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4992
+Time ms 387782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4994
+Time ms 389782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4996
+Time ms 391782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 4998
+Time ms 393783  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5000
+Time ms 395782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5002
+Time ms 397782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5004
+Time ms 399782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5006
+Time ms 401782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5008
+Time ms 403782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5010
+Time ms 405782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5012
+Time ms 407782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5014
+Time ms 409782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5016
+Time ms 411783  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5018
+Time ms 413782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5020
+Time ms 415782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5022
+Time ms 417782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5024
+Time ms 419782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5026
+Time ms 421782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5028
+Time ms 423782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5030
+Time ms 425783  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5032
+Time ms 427782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5034
+Time ms 429783  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5036
+Time ms 431782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5038
+Time ms 433782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5040
+Time ms 435782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5042
+Time ms 437782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5044
+Time ms 439782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5046
+Time ms 441782  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5048
+Time ms 443787  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5050
+Time ms 445787  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5052
+Time ms 447788  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5054
+Time ms 449787  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5056
+Time ms 451788  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5058
+Time ms 453787  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5060
+Time ms 455787  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5062
+Time ms 457787  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5064
+Time ms 459787  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5066
+Time ms 461787  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5068
+Time ms 463787  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5070
+Time ms 465788  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5072
+Time ms 467789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5074
+Time ms 469790  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5076
+Time ms 471789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5078
+Time ms 473789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5080
+Time ms 475789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5082
+Time ms 477789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5084
+Time ms 479789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5086
+Time ms 481789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5088
+Time ms 483789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5090
+Time ms 485789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5092
+Time ms 487790  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5094
+Time ms 489789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5096
+Time ms 491789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5098
+Time ms 493789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5100
+Time ms 495789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5102
+Time ms 497789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5104
+Time ms 499789  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5106
+Time ms 501791  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5108
+Time ms 503791  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5110
+Time ms 505793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5112
+Time ms 507792  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5114
+Time ms 509792  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5116
+Time ms 511792  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5118
+Time ms 1793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5120
+Time ms 3793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5122
+Time ms 5793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5124
+Time ms 7793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5126
+Time ms 9793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5128
+Time ms 11794  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5130
+Time ms 13793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5132
+Time ms 15793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5134
+Time ms 17793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5136
+Time ms 19793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5138
+Time ms 21793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5140
+Time ms 23793  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5142
+Time ms 25795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5144
+Time ms 27795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5146
+Time ms 29796  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5148
+Time ms 31795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5150
+Time ms 33796  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5152
+Time ms 35795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5154
+Time ms 37795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5156
+Time ms 39795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5158
+Time ms 41795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5160
+Time ms 43795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5162
+Time ms 45795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5164
+Time ms 47796  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5166
+Time ms 49795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5168
+Time ms 51796  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5170
+Time ms 53795  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5172
+Time ms 55797  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5174
+Time ms 57797  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5176
+Time ms 59797  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5178
+Time ms 61797  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5180
+Time ms 63797  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5182
+Time ms 65798  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5184
+Time ms 67799  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5186
+Time ms 69800  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5188
+Time ms 71799  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5190
+Time ms 73799  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5192
+Time ms 75799  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5194
+Time ms 77799  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5196
+Time ms 79804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5198
+Time ms 81804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5200
+Time ms 83804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5202
+Time ms 85804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5204
+Time ms 87804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5206
+Time ms 89804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5208
+Time ms 91805  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5210
+Time ms 93804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 5212
+Time ms 95804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5214
+Time ms 97804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5216
+Time ms 99804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5218
+Time ms 101804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5220
+Time ms 103804  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5222
+Time ms 105808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5224
+Time ms 107808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5226
+Time ms 109809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5228
+Time ms 111808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5230
+Time ms 113809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5232
+Time ms 115808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5234
+Time ms 117808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5236
+Time ms 119808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5238
+Time ms 121808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5240
+Time ms 123808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5242
+Time ms 125808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5244
+Time ms 127809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5246
+Time ms 129808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5248
+Time ms 131809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5250
+Time ms 133808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5252
+Time ms 135808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5254
+Time ms 137808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5256
+Time ms 139808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5258
+Time ms 141808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5260
+Time ms 143808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5262
+Time ms 145809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5264
+Time ms 147808  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5266
+Time ms 149810  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5268
+Time ms 151809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5270
+Time ms 153809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5272
+Time ms 155809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5274
+Time ms 157809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5276
+Time ms 159809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5278
+Time ms 161809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5280
+Time ms 163810  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5282
+Time ms 165809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5284
+Time ms 167810  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5286
+Time ms 169809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5288
+Time ms 171809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5290
+Time ms 173809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5292
+Time ms 175809  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5294
+Time ms 177811  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 5296
+Time ms 179811  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5298
+Time ms 181815  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 5300
+Time ms 183815  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5302
+Time ms 185820  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5304
+Time ms 187820  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5306
+Time ms 189825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5308
+Time ms 191825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5310
+Time ms 193826  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5312
+Time ms 195825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5314
+Time ms 197826  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5316
+Time ms 199825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5318
+Time ms 201825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5320
+Time ms 203825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5322
+Time ms 205825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5324
+Time ms 207825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5326
+Time ms 209825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5328
+Time ms 211826  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5330
+Time ms 213825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5332
+Time ms 215825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5334
+Time ms 217825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5336
+Time ms 219825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5338
+Time ms 221825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5340
+Time ms 223825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5342
+Time ms 225825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5344
+Time ms 227825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5346
+Time ms 229826  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5348
+Time ms 231825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5350
+Time ms 233825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5352
+Time ms 235825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5354
+Time ms 237825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5356
+Time ms 239825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5358
+Time ms 241825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5360
+Time ms 243825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5362
+Time ms 245825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5364
+Time ms 247826  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5366
+Time ms 249825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5368
+Time ms 251825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5370
+Time ms 253825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5372
+Time ms 255825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5374
+Time ms 257825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5376
+Time ms 259825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5378
+Time ms 261825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5380
+Time ms 263825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5382
+Time ms 265826  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5384
+Time ms 267825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5386
+Time ms 269825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5388
+Time ms 271825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5390
+Time ms 273825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5392
+Time ms 275825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5394
+Time ms 277825  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5396
+Time ms 279827  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5398
+Time ms 281827  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5400
+Time ms 283830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5402
+Time ms 285830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5404
+Time ms 287831  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5406
+Time ms 289830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5408
+Time ms 291830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5410
+Time ms 293830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5412
+Time ms 295830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5414
+Time ms 297830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5416
+Time ms 299830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5418
+Time ms 301831  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5420
+Time ms 303830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5422
+Time ms 305831  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5424
+Time ms 307830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5426
+Time ms 309830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5428
+Time ms 311830  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5430
+Time ms 313835  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5432
+Time ms 315835  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5434
+Time ms 317835  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5436
+Time ms 319835  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5438
+Time ms 321835  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5440
+Time ms 323838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5442
+Time ms 325838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5444
+Time ms 327839  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5446
+Time ms 329838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5448
+Time ms 331838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5450
+Time ms 333838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5452
+Time ms 335838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5454
+Time ms 337838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5456
+Time ms 339838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5458
+Time ms 341838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5460
+Time ms 343838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5462
+Time ms 345839  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5464
+Time ms 347838  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5466
+Time ms 349843  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5468
+Time ms 351841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5470
+Time ms 353841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5472
+Time ms 355841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5474
+Time ms 357841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5476
+Time ms 359841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5478
+Time ms 361841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5480
+Time ms 363842  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5482
+Time ms 365841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5484
+Time ms 367843  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5486
+Time ms 369841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5488
+Time ms 371841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5490
+Time ms 373841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5492
+Time ms 375841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5494
+Time ms 377841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5496
+Time ms 379841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5498
+Time ms 381842  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5500
+Time ms 383841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5502
+Time ms 385842  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5504
+Time ms 387841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5506
+Time ms 389841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5508
+Time ms 391841  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5510
+Time ms 393842  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5512
+Time ms 395842  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5514
+Time ms 397842  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5516
+Time ms 399843  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5518
+Time ms 401842  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5520
+Time ms 403844  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5522
+Time ms 405843  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5524
+Time ms 407843  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5526
+Time ms 409843  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5528
+Time ms 411843  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5530
+Time ms 413845  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5532
+Time ms 415846  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5534
+Time ms 417846  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5536
+Time ms 419846  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 5538
+Time ms 421847  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5540
+Time ms 423846  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5542
+Time ms 425846  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5544
+Time ms 427852  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 5546
+Time ms 429851  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5548
+Time ms 431857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5550
+Time ms 433857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5552
+Time ms 435857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5554
+Time ms 437857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5556
+Time ms 439857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5558
+Time ms 441857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5560
+Time ms 443857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5562
+Time ms 445857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5564
+Time ms 447858  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5566
+Time ms 449857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 5568
+Time ms 451857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5570
+Time ms 453857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5572
+Time ms 455857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5574
+Time ms 457857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5576
+Time ms 459857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5578
+Time ms 461857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5580
+Time ms 463857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5582
+Time ms 465858  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5584
+Time ms 467857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5586
+Time ms 469857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5588
+Time ms 471857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5590
+Time ms 473857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5592
+Time ms 475858  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5594
+Time ms 477857  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5596
+Time ms 479860  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 5598
+Time ms 481860  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5600
+Time ms 483861  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5602
+Time ms 485860  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5604
+Time ms 487861  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5606
+Time ms 489860  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5608
+Time ms 491860  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5610
+Time ms 493860  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . SysTicks Secs = 5612
+Time ms 495860  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5614
+Time ms 497860  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . SysTicks Secs = 5616
+Time ms 499860  Battery level 
+-.1 .0 .1 .2 .3 . . . . . . . . . . . . . . . . SysTicks Secs = 5618
+Time ms 501866  Battery level 
+SysTicks Secs = 21
+Time ms 25143  Battery level 
+-.1 .0 .2-0 updateBatteryLevel blc 109
+. updateBatteryLevel percent OK 109
+Battery percent 109 4176
+.2-1 updateBatterymV 4176
+. updateBatterymV OK 4176
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 23
+Time ms 27143  Battery level 
+-.1 .0 .2-0 updateBatteryLevel blc 110
+. updateBatteryLevel percent OK 110
+Battery percent 110 4180
+.2-1 updateBatterymV 4180
+. updateBatterymV OK 4180
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 25
+Time ms 29143  Battery level 
+-.1 .0 .2-1 updateBatterymV 4183
+. updateBatterymV OK 4183
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 27
+Time ms 31143  Battery level 
+-.1 .0 .2-1 updateBatterymV 4185
+. updateBatterymV OK 4185
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 29
+Time ms 33143  Battery level 
+-.1 .0 .2-1 updateBatterymV 4186
+. updateBatterymV OK 4186
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 31
+Time ms 35143  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 33
+Time ms 37144  Battery level 
+-.1 .0 .2-1 updateBatterymV 4187
+. updateBatterymV OK 4187
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 35
+Time ms 39143  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 37
+Time ms 41144  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 39
+Time ms 43144  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 41
+Time ms 45144  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 43
+Time ms 47144  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 45
+Time ms 49144  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 47
+Time ms 51144  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 49
+Time ms 53144  Battery level 
+-.1 .0 .2-0 updateBatteryLevel blc 111
+. updateBatteryLevel percent OK 111
+Battery percent 111 4190
+.2-1 updateBatterymV 4190
+. updateBatterymV OK 4190
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 51
+Time ms 55143  Battery level 
+-.1 .0 .2-1 updateBatterymV 4189
+. updateBatterymV OK 4189
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 53
+Time ms 57143  Battery level 
+-.1 .0 .2-1 updateBatterymV 4188
+. updateBatterymV OK 4188
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 55
+Time ms 59143  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 57
+Time ms 61144  Battery level 
+-.1 .0 .2-0 updateBatteryLevel blc 110
+. updateBatteryLevel percent OK 110
+Battery percent 110 4187
+.2-1 updateBatterymV 4187
+. updateBatterymV OK 4187
+.1 .2 .3 UpdateAdvData
+SysTicks Secs = 59
+Time ms 63143  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 61
+Time ms 65144  Battery level 
+-.1 .0 .1 .2 .3 SysTicks Secs = 63
+Time ms 67144  Battery level 
